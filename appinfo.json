@@ -1,0 +1,45 @@
+{
+    "versionLabel": "1.4.0",
+    "uuid": "AB7573E0-C7AD-4AE5-950D-81F9A53C0FD6",
+    "appKeys": {},
+    "longName": "Horlogo_d",
+    "versionCode": 4,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Horlogo_d",
+    "companyName": "ShaBP",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "font",
+                "name": "FONT_ORION_ESP_DIKA_20",
+                "file": "fonts/Orion_Esp_Dika.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_ORION_ESP_DIKA_38",
+                "file": "fonts/Orion_Esp_Dika.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_ORION_ESP_NORMALA_20",
+                "file": "fonts/Orion_Esp_Normala.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_ORION_ESP_NORMALA_38",
+                "file": "fonts/Orion_Esp_Normala.ttf"
+            },
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "Horlogo_d_icn",
+                "file": "images/Horlogo_d_icn.png"
+            }
+        ]
+    }
+}
